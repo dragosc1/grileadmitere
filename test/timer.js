@@ -1,5 +1,5 @@
 const timer = document.querySelector(".timer");
-let h = 0, m = 10, s = 0;
+let h = 2, m = 0, s = 0;
 
 function TIMER() {
     if (s < 0) {
