@@ -18,10 +18,9 @@
     box-shadow: none!important;
     outline: 0;
 }
-
 .btn {
     padding: 8px;
-    font-size: 18px;
+    font-size: 17px;
 }
 .pressed {
     background: rgb(15, 48, 194);
